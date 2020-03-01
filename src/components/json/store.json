@@ -1,0 +1,787 @@
+
+  { 
+      
+    "Bus": [
+         {
+            "id":1,
+            "name":"Marcopolo G7 1200",
+            "marca":"Marcopolo",
+            "price":"210.000,00",
+            "year":"2009",
+            "motor":"Volvo B9R",  
+            "description": "46 lugares, Ar Condicionado, WC",
+            "imgurl":"id-1/img-main.jpg",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-1/img-main.jpg"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-1/img-min-1.jpg"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-1/img-min-2.jpg"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-1/img-min-3.jpg"
+                }
+
+            ]
+        },
+        {
+            "id":2,
+            "name":"Marcopolo G7 1200",
+            "marca":"Marcopolo",
+            "price":"385.000,00",
+            "year":"2014/2015",
+            "motor":"Scania K310",
+            "description":"46 lugares, Ar Condicionado, WC",
+            "imgurl":"id-2/img-main.jpg",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-2/img-main.jpg"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-2/img-min-1.jpg"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-2/img-min-2.jpg"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-2/img-min-3.jpg"
+                }
+
+            ]
+
+        },
+        {
+            "id":3,
+            "name":"Micro Neobus",
+            "marca":"Neobus",
+            "price":"75.000,00",
+            "year":"2005",
+            "motor":"WV9-150",
+            "description":"28 lugares, Ar Condicionado",
+            "imgurl":"id-3/img-main.jpg",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-3/img-main.jpg"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-3/img-min-1.jpg"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-3/img-min-2.jpg"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-3/img-min-3.jpg"
+                }
+
+            ]
+
+        },
+        {
+            "id":4,
+            "name":"Busscar El Buss 340",
+            "marca":"Busscar",
+            "price":"55.000,00",
+            "year":"1998",
+            "motor":"Mercedes O-400",
+            "description":"46 lugares, Ar Condicionado, WC",
+            "imgurl":"id-4/img-main.jpg",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-4/img-main.jpg"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-4/img-min-1.jpg"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-4/img-min-2.jpg"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-4/img-min-3.jpg"
+                }
+
+            ]
+
+        },
+        {
+            "id":5,
+            "name":"Marcopolo Paradiso 1150",
+            "marca":"Marcopolo",
+            "price":"50.000,00",
+            "year":"1996",
+            "motor":"Mercedes O-400",
+            "description":"46 lugares, WC",
+            "imgurl":"id-5/img-main.jpg",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-5/img-main.jpg"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-5/img-min-1.jpg"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-5/img-min-2.jpg"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-5/img-min-3.jpg"
+                }
+
+            ]
+
+        },
+        {
+            "id":6,
+            "name":"Marcopolo G6 1200",
+            "marca":"Marcopolo",
+            "price":"105.000,00",
+            "year":"2006",
+            "motor":"Scania K-310",
+            "description":"46 lugares, Ar Condicionado, WC",
+            "imgurl":"id-6/img-main.jpg",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-6/img-main.jpg"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-6/img-min-1.jpg"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-6/img-min-2.jpg"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-6/img-min-3.jpg"
+                }
+
+            ]
+
+        },
+        {
+            "id":7,
+            "name":"Marcopolo G6 1200",
+            "marca":"Marcopolo",
+            "price":"95.000,00",
+            "year":"2004",
+            "motor":"WV 18-310",
+            "description":"46 lugares, Ard Condicionado, WC",
+            "imgurl":"id-7/img-main.jpg",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-7/img-main.jpg"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-7/img-min-1.jpg"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-7/img-min-2.jpg"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-7/img-min-3.jpg"
+                }
+
+            ]
+
+        },
+        {
+            "id":8,
+            "name":"Marcopolo G6 1200",
+            "marca":"Marcopolo",
+            "price":"150.000,00",
+            "year":"2007",
+            "motor":"SCANIA K310",
+            "description":"50 lugares, Ar Condicionado, WC",
+            "imgurl":"id-8/img-main.jpg",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-8/img-main.jpg"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-8/img-min-1.jpg"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-8/img-min-2.jpg"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-8/img-min-3.jpg"
+                }
+
+            ]
+
+        },
+        {
+            "id":9,
+            "name":"Busscar LO",
+            "marca":"Busscar",
+            "price":"85.000,00",
+            "year":"2005",
+            "motor":"WV 18-310",
+            "description":"46 lugares, Ar Condicionado, WC",
+            "imgurl":"id-9/img-main.jpg",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-9/img-main.jpg"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-9/img-min-1.jpg"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-9/img-min-2.jpg"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-9/img-min-3.jpg"
+                }
+
+            ]
+
+        },
+        {
+            "id":10,
+            "name":"Busscar Vista-Buss HI",
+            "marca":"Busscar",
+            "price":"85.000,00",
+            "year":"2001",
+            "motor":"SCANIA K-124",
+            "description":"42 lugares, Ar Condicionado, WC",
+            "imgurl":"id-10/img-main.jpg",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-10/img-main.jpg"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-10/img-min-1.jpg"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-10/img-min-2.jpg"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-10/img-min-3.jpg"
+                }
+
+            ]
+
+        },
+        {
+            "id":11,
+            "name":"Marcopolo Paradiso 1150",
+            "marca":"Marcopolo",
+            "price":"45.000,00",
+            "year":"1997",
+            "motor":"Mercedez O-400",
+            "description":"46 lugares, WC",
+            "imgurl":"id-11/img-main.jpg",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-11/img-main.jpg"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-11/img-min-1.jpg"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-11/img-min-2.jpg"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-11/img-min-3.jpg"
+                }
+
+            ]
+
+        },
+        {
+            "id":12,
+            "name":"Marcopolo G6 1200",
+            "marca":"Marcopolo",
+            "price":"105.000,00",
+            "year":"2006",
+            "motor":"SCANIA K-310",
+            "description":"42 lugares, Ar Condicionado, WC",
+            "imgurl":"id-12/img-main.jpg",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-12/img-main.jpg"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-12/img-min-1.jpg"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-12/img-min-2.jpg"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-12/img-min-3.jpg"
+                }
+
+            ]
+
+        },
+        {
+            "id":13,
+            "name":"Marcopolo Ideale",
+            "marca":"Marcopolo",
+            "price":"250.000,00",
+            "year":"2014",
+            "motor":"WV 17260",
+            "description":"48 lugares, Ar Condicionado",
+            "imgurl":"id-13/img-main.jpg",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-13/img-main.jpg"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-13/img-min-1.jpg"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-13/img-min-2.jpg"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-13/img-min-3.jpg"
+                }
+
+            ]
+
+        },
+        {
+            "id":14,
+            "name":"Mascarello Roma 340",
+            "marca":"Mascarello",
+            "price":"210.000,00",
+            "year":"2012",
+            "motor":"WV 17260",
+            "description":"48 lugares, Ar Condicionado",
+            "imgurl":"id-14/img-main.jpg",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-14/img-main.jpg"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-14/img-min-1.jpg"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-14/img-min-2.jpg"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-14/img-min-3.jpg"
+                }
+
+            ]
+
+        },
+        {
+            "id":15,
+            "name":"Comil Versátil",
+            "marca":"Comil",
+            "tipo":"Rodoviário",
+            "price":"180.000,00",
+            "year":"2011/2012",
+            "motor":"Agralle",
+            "description":"44 lugares, Ar Condicionado",
+            "imgurl":"id-15/img-main.jpg",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-15/img-main.jpg"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-15/img-min-1.jpg"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-15/img-min-2.jpg"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-15/img-min-3.jpg"
+                }
+
+            ]
+
+        },
+        {
+            "id":16,
+            "name":"Marcopolo G6 1200",
+            "marca":"Marcopolo",
+            "price":"80.000,00",
+            "year":"2000",
+            "motor":"Mercedes O-400",
+            "description":"50 lugares, Ar Condicionado, WC e TV",
+            "imgurl":"id-16/img-main.jpg",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-16/img-main.jpg"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-16/img-min-1.jpg"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-16/img-min-2.jpg"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-16/img-min-3.jpg"
+                }
+
+            ]
+
+        },
+        {
+            "id":17,
+            "name":"Busscar El Buss 340",
+            "marca":"Busscar",
+            "price":"40.000,00",
+            "year":"1997",
+            "motor":"Mercedes O-400",
+            "description":"57 lugares",
+            "imgurl":"id-17/img-main.jpg",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-17/img-main.jpg"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-17/img-min-1.png"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-17/img-min-2.png"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-17/img-min-3.jpg"
+                }
+
+            ]
+
+        },
+        {
+            "id":18,
+            "name":"Marcopolo G6 1200 LD",
+            "marca":"Marcopolo",
+            "price":"320.000,00",
+            "year":"2003/2004",
+            "motor":"Mercedes O-400",
+            "description":"46 lugares, Ar Condicionado, WC e TV",
+            "imgurl":"id-18/img-main.jpg",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-18/img-main.jpg"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-18/img-min-1.png"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-18/img-min-2.png"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-18/img-min-3.png"
+                }
+
+            ]
+
+        },
+        {
+            "id":19,
+            "name":"Mercedes Monobloco O-400",
+            "marca":"Mercedes",
+            "price":"30.000,00",
+            "year":"1996",
+            "motor":"Mercedes O-400",
+            "description":"44 lugares",
+            "imgurl":"id-19/img-main.png",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-19/img-main.png"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-19/img-min-1.png"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-19/img-min-2.png"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-19/img-min-3.png"
+                }
+
+            ]
+
+        },
+        {
+            "id":20,
+            "name":"Busscar El Buss 340",
+            "marca":"Busscar",
+            "price":"40.000,00",
+            "year":"1997",
+            "motor":"Mercedes O-400",
+            "description":"57 lugares",
+            "imgurl":"id-20/img-main.png",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-20/img-main.png"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-20/img-min-1.jpg"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-20/img-min-2.jpg"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-20/img-min-3.jpg"
+                }
+
+            ]
+
+        },
+        {
+            "id":21,
+            "name":"Busscar LO",
+            "marca":"Busscar",
+            "price":"80.000,00",
+            "year":"2001",
+            "motor":"Mercedes O-400",
+            "description":"46 lugares, Ar Condicionado, WC e TV",
+            "imgurl":"id-21/img-main.jpg",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-21/img-main.jpg"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-21/img-min-1.jpg"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-21/img-min-2.jpg"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-21/img-min-3.jpg"
+                }
+
+            ]
+
+        },
+        {
+            "id":22,
+            "name":"Marcopolo G6 1200",
+            "marca":"Marcopolo",
+            "price":"170.000,00",
+            "year":"2007",
+            "motor":"Scania K-310",
+            "description":"50 lugares, Ar Condicionado, WC e TV",
+            "imgurl":"id-22/img-main.jpg",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-22/img-main.jpg"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-22/img-min-1.jpg"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-22/img-min-2.jpg"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-22/img-min-3.jpg"
+                }
+
+            ]
+
+        },
+        {
+            "id":23,
+            "name":"Micro Neobus Thunder",
+            "marca":"Neobus",
+            "price":"77.000,00",
+            "year":"2008/2009",
+            "motor":"Mercedes LO915",
+            "description":"30 lugares, 2 portas, piso de alumínio com elevador",
+            "imgurl":"id-23/img-main.jpg",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-23/img-main.jpg"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-23/img-min-1.jpg"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-23/img-min-2.jpg"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-23/img-min-3.jpg"
+                }
+
+            ]
+
+        },
+        {
+            "id":24,
+            "name":"Busscar Vista-Buss",
+            "marca":"Busscar",
+            "price":"90.000,00",
+            "year":"1999",
+            "motor":"Mercedes O-400",
+            "description":"46 lugares com encosto de perna, Ar Condicionado, WC e Geladeira",
+            "imgurl":"id-24/img-main.jpg",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-24/img-main.jpg"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-24/img-min-1.jpg"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-24/img-min-2.jpg"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-24/img-min-3.jpg"
+                }
+
+            ]
+
+        },
+        {
+            "id":25,
+            "name":"Marcopolo G6 1200",
+            "marca":"Marcopolo",
+            "price":"100.000,00",
+            "year":"2000",
+            "motor":"Scania K-124",
+            "description":"50 lugares, Ar Condicionado, WC e Geladeira",
+            "imgurl":"id-25/img-main.jpg",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-25/img-main.jpg"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-25/img-min-1.jpg"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-25/img-min-2.jpg"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-25/img-min-3.jpg"
+                }
+
+            ]
+
+        },
+        {
+            "id":26,
+            "name":"Marcopolo G6 1200",
+            "marca":"Marcopolo",
+            "price":"100.000,00",
+            "year":"2000",
+            "motor":"Scania K-124",
+            "description":"50 lugares, Ar Condicionado, WC e Geladeira",
+            "imgurl":"id-26/img-main.jpg",
+            "imgmin":[
+                {
+                    "idimg":1,
+                    "imgminurl":"id-26/img-main.jpg"
+                },
+                {
+                    "idimg":2,
+                    "imgminurl":"id-26/img-min-1.jpg"
+                },
+                {
+                    "idimg":3,
+                    "imgminurl":"id-26/img-min-2.jpg"
+                },
+                {
+                    "idimg":4,
+                    "imgminurl":"id-26/img-min-3.jpg"
+                }
+
+            ]
+
+        }
+
+    ]
+}
